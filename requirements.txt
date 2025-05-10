@@ -1,0 +1,4 @@
+loguru==0.7.3
+aiogram==3.20.0.post0
+pydantic-settings==2.9.1
+aiosqlite==0.21.0
